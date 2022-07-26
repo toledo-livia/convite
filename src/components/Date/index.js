@@ -11,7 +11,7 @@ function Date() {
             <CalendarMonthIcon className="icon"/>
             <h1>Quando?</h1>
         </div>
-        <span className="info">Sábado, 20 de agosto de 2022</span>
+        <span className="info">Sábado, 20 de agosto de 2022 ás 19h</span>
         <div className="title">
             <PlaceIcon className="icon"/>
             <h1>Local</h1>
