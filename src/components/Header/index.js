@@ -1,3 +1,4 @@
+import React from "react";
 import Header from "./style";
 import Image from "../../common/images/theo.png";
 import { useEffect, useState } from "react";

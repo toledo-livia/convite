@@ -1,3 +1,4 @@
+import React from "react";
 import Content from './style';
 import Confirmation from '../Confirmation';
 

@@ -1,3 +1,4 @@
+import React from "react";
 import Content from './style';
 import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
 import PlaceIcon from '@mui/icons-material/Place';

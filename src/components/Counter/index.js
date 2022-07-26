@@ -1,3 +1,4 @@
+import React from "react";
 import FlipCountdown from "@rumess/react-flip-countdown";
 import {
   BrowserView,
