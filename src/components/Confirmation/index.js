@@ -163,6 +163,9 @@ function Confirmation() {
       case "?josi":
         setName("Josi");
         return;
+      case "?celio-e-sheila":
+        setName("Célio e Sheila");
+        return;
       default:
         setName("Theo 2 anos");
         return;
@@ -227,8 +230,8 @@ function Confirmation() {
         }
       );
 
-      setAdultos(0);
-      setCriancas(0);
+    setAdultos(0);
+    setCriancas(0);
   }
 
   return (
