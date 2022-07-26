@@ -27,7 +27,7 @@ function Counter() {
         setName("João Batista, Patricia e família");
         return;
       case "?maria-e-alexandre":
-        setName("Maria, Alexandre e Sofia");
+        setName("Maria, Alexandre e Sophia");
         return;
       case "?jose-e-gabriela":
         setName("José e Gabriela");
