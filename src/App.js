@@ -2,6 +2,8 @@ import { Fragment } from "react";
 
 import Counter from "./components/Counter";
 import Header from "./components/Header";
+import TextInvite from "./components/TextInvite";
+import Date from "./components/Date";
 import GlobalStyle from "./common/styles/global";
 
 function App() {
@@ -12,6 +14,8 @@ function App() {
         <div className="container">
           <Header />
           <Counter />
+          <TextInvite />
+          <Date />
         </div>
       </section>
     </Fragment>

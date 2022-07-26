@@ -27,6 +27,10 @@ const GlobalStyle = createGlobalStyle`
     background-size: cover;
     width: 70%;
     min-height: 100vh;
+    @media(max-width: 780px) {
+      width: 100%;
+      margin-bottom: 10px;
+    }
   }
 `;
 

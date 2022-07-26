@@ -11,6 +11,10 @@ const Header = styled.div`
     width: 30%;
     margin-top: 40px;
     margin-bottom: 50px;
+    @media(max-width: 780px) {
+      width: 60%;
+      margin-bottom: 40px;
+    }
   }
 
   .guest {
