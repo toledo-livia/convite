@@ -2,9 +2,7 @@ import React from "react";
 import FlipCountdown from "@rumess/react-flip-countdown";
 import {
   BrowserView,
-  MobileView,
-  isBrowser,
-  isMobile,
+  MobileView
 } from "react-device-detect";
 
 function Counter() {
