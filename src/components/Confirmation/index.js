@@ -167,7 +167,7 @@ function Confirmation() {
         setName("Célio e Sheila");
         return;
       case "?antonio":
-        setName("Antônio Carlos");
+        setName("Antonio Carlos");
         return;
       default:
         setName("Theo 2 anos");
