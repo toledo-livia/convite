@@ -128,6 +128,9 @@ function Counter() {
       case "?celio-e-sheila":
         setName("Célio e Sheila");
         return;
+      case "?antonio":
+        setName("Antônio Carlos");
+        return;
       default:
         setName("Theo 2 anos");
         return;
